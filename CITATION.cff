@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the archived Zenodo version."
+title: "Value-Viability Framework: Reproducible Synthetic Illustration"
+type: software
+authors:
+  - family-names: "Souza"
+    given-names: "Luciano Azevedo de"
+    orcid: "https://orcid.org/0000-0001-5091-9769"
+  - family-names: "Dutra Neto"
+    given-names: "F. S."
+  - family-names: "Sarpa"
+    given-names: "V. A."
+  - family-names: "Gomes Costa"
+    given-names: "Helder"
+    orcid: "https://orcid.org/0000-0001-9945-0367"
+version: "1.0.0"
+date-released: "2026-05-15"
+abstract: "R code and synthetic data generation procedures for reproducing the illustrative application of the Value-Viability Framework, including BCV validation summaries, composite scores, and 2x2 and 3x3 Value-Viability maps."
+keywords:
+  - "Value-Viability"
+  - "MCDA"
+  - "BCV"
+  - "AHP"
+  - "reproducibility"
+  - "portfolio analysis"
+license: "MIT"
+repository-code: "https://github.com/USERNAME/value-viability-framework"

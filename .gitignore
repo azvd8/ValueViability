@@ -1,0 +1,18 @@
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Optional: uncomment if you do not want generated outputs tracked
+# *.pdf
+# *.svg
+# *.csv
