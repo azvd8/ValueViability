@@ -15,20 +15,17 @@ The script reproduces:
 ## Repository structure
 
 ```text
-value-viability-framework/
+ValueViability/
 ├── R/
 │   └── value_viability_framework.R
 ├── data/
 │   └── README.md
 ├── outputs/
 │   └── README.md
-├── manuscript/
-│   └── code_availability_statement.tex
-├── docs/
-│   └── github_zenodo_checklist.md
 ├── CITATION.cff
 ├── LICENSE
 ├── LICENSE-DATA.md
+├── CHANGELOG.md
 ├── .gitignore
 └── README.md
 ```
